@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bdebinska.
 - 👀 I’m interested in web development, physics and music.
-- 🌱 I’m currently learning Java, Python and full stack web development.
+- 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me bea.debinska@gmail.com
 
 <!---

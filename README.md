@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bdebinska.
-- 👀 I’m interested in web development, physics and music.
-- 🏢 Working on IoT systems as full stack developer.
-- 📫 Reach me under bea.debinska@gmail.com
+## 👋 Hi, I’m Beata
 
+Web developer at Lipsia Digital.\
+Computer science student at IU.
 <!---
 bdebinska/bdebinska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

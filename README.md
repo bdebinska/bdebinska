@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Beata
 
-Web developer at Lipsia Digital.\
+Web developer.\
 Computer science student at IU.
 <!---
 bdebinska/bdebinska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

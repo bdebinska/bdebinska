@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Beata
 
-Web developer.\
-Computer science student at IU.
-Developer at Box-ID.
+Delevoper at BoxId Systems.
+Enthusiast of IoT systems and climate tech.
 Working in Elixir and NodeJS ecosystems.
 <!---
 bdebinska/bdebinska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

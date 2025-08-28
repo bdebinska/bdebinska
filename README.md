@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Beata
 
-Delevoper at BoxId Systems.
+Delevoper at Box ID Systems.
 
 Working in the Elixir ecosystem 🟣
 
